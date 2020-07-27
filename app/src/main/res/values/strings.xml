@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Phoneroll</string>
+    <string name="app_timezone">Turkey</string>
+    <string name="no_lectures_err">You have no lectures you need to attend right now</string>
+</resources>

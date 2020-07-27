@@ -1,0 +1,3 @@
+include ':app', ':opencvsdk'
+rootProject.name='Phoneroll'
+project(':opencvsdk').projectDir = new File(opencvssdk + '\\sdk')
