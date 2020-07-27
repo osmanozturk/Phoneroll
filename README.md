@@ -9,3 +9,5 @@ Face and phone ID data are stored alongside the student data to be able to measu
 The student also needs to be in the classroom for the attendance to count. That verification is  also performed using the smartphone camera data. User needs to take photograph of the classroom they are currently in. Then we can verify the attendance of the student by comparing the provided classroom photo with the panaromic reference classroom photo.  
 
 #Opencv Android SDK is needed.
+
+![Iinterface Preview](Images/phonerollpreview.jpg)
